@@ -58,8 +58,6 @@ Video Link --> https://drive.google.com/file/d/1gJtf1jqgInh5vzeDv3SEGrvZEKUFWjmv
 #### AS A manager at an internet retail company 
 #### I WANT a back end for my e-commerce website that uses the latest technologies 
 #### SO THAT my company can compete with other e-commerce companies
-
-
 # Acceptance Criteria
 #### GIVEN a functional Express.js API 
 #### WHEN I add my database name, MySQL username, and MySQL password to an environment variable file 
